@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516932570545.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "542952378",
+    "id" : "80CE32C",
+    "lastKnownWriteTime" : 1516932618,
+    "last_content_update" : 1516932618317,
+    "path" : "/Applications/Examples/HomeAssignment/HW_00_Assignment.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "70,1",
+        "scrollLine" : "62"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

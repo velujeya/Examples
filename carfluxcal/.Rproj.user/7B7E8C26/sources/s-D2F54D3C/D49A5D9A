@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516933044820.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3645927503",
+    "id" : "D49A5D9A",
+    "lastKnownWriteTime" : 1517166780,
+    "last_content_update" : 1517166780170,
+    "path" : "~/BigDataCertification/CSCI720/HW00_Vell_Jey/HW00_VELL_Jey_program.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "40,3",
+        "scrollLine" : "36"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

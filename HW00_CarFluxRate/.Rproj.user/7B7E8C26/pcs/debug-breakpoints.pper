@@ -1,0 +1,51 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 30,
+                "editor_state" : 2,
+                "function_name" : "carFluxFinder",
+                "function_steps" : "",
+                "id" : 7,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 30,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/SampleProgram.R",
+                "state" : 2,
+                "type" : 0
+            },
+            {
+                "editor_line_number" : 33,
+                "editor_state" : 2,
+                "function_name" : "carFluxFinder",
+                "function_steps" : "",
+                "id" : 10,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 33,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/SampleProgram.R",
+                "state" : 2,
+                "type" : 0
+            },
+            {
+                "editor_line_number" : 53,
+                "editor_state" : 2,
+                "function_name" : "fluxCal",
+                "function_steps" : "",
+                "id" : 11,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 53,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "/Applications/Examples/HomeAssignment/HW_00_Assignment.R",
+                "state" : 2,
+                "type" : 0
+            }
+        ]
+    }
+}

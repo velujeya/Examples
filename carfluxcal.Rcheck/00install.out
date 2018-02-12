@@ -1,0 +1,10 @@
+* installing *source* package ‘carfluxcal’ ...
+Warning in as.POSIXlt.POSIXct(x, tz) :
+  unknown timezone 'default/America/New_York'
+** R
+** preparing package for lazy loading
+Error : package or namespace load failed for ‘carfluxcal’ in loadNamespace(package, lib.loc):
+ cyclic namespace dependency detected when loading ‘carfluxcal’, already loading ‘carfluxcal’
+Error : unable to load R code in package ‘carfluxcal’
+ERROR: lazy loading failed for package ‘carfluxcal’
+* removing ‘/Applications/Examples/carfluxcal.Rcheck/carfluxcal’
